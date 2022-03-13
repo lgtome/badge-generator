@@ -1,0 +1,5 @@
+.highlighted {
+  background: rgba(255, 244, 92, 0.7);
+  border-radius: 4px;
+  color: grey;
+}

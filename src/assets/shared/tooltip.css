@@ -1,0 +1,37 @@
+.tip {
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  text-align: color;
+  padding: 4px 10px;
+  color: grey;
+  cursor: help;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  text-align: color;
+  padding: 4px 10px;
+  color: grey;
+  cursor: help;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 220px;
+  background-color: rgba(128, 128, 128, 0.425);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 6px;
+  top: -5px;
+  left: 115%;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

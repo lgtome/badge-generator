@@ -1,0 +1,40 @@
+.screen {
+  width: 100%;
+  height: 100vh;
+  background: #E0E0E0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.block {
+  margin: 40px;
+}
+
+
+.btn {
+  padding: 12px 20px;
+  background: rgba(54, 53, 61, 0.2);
+  transition: background 0.2s ease-in-out;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #424141;
+  text-transform: capitalize;
+}
+
+.btn:hover {
+  background: rgba(54, 53, 61, 0.3);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 220px;
+}
+
+.drag {
+  cursor: pointer;
+}
