@@ -1,5 +1,10 @@
 # Badge generator
 
+# Usage
+
+ <div onclick="location.href='[example](https://w1nkgj.sse.codesandbox.io/)'" style="cursor:pointer">
+    <image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-220f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  </div>
 <div style="display:flex; gap:4px"> 
 <image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-220f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
 <image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-221f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
