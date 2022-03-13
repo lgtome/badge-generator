@@ -1,29 +1,9 @@
-# badge-generator
+# Badge generator
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-223f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-224f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-225f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-226f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-227f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-228f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<image src="https://img.shields.io/badge/Vue%20%F0%9F%A4%8D-229f50.svg?&style=for-the-badge&logo=&logoColor=white"/>
